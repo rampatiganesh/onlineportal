@@ -1,0 +1,144 @@
+{
+    "questions": [{
+            "questionText": "How many months have 28 days?",
+            "options": [{
+                    "text": "11"
+                },
+                {
+                    "text": "leap"
+                },
+                {
+                    "text": "12",
+                    "correct":true
+
+                }
+            ]            
+        },
+        {
+            "questionText": "If a leaf falls to the ground in a forest and no one hears it, does it make a sound? ",
+            "options": [{
+                    "text": "no"
+                },
+                {
+                    "text": "s",
+                    "correct": true
+                },
+                {
+                    "text": "depend"
+                }
+               ]            
+        },
+        {
+            "questionText": "The answer is really big.",
+            "options": [{
+                    "text": "Really big"
+                },
+                {
+                    "text": "The Answer",
+                    "correct": true
+                },
+                {
+                    "text": "An elephant"
+                }
+            ]
+        },
+        {
+            "questionText": "Divide 30 by half and add ten. ",
+            "options": [{
+                    "text": "50"                    
+                },
+                {
+                    "text": "70",
+                    "correct": true
+                },
+                {
+                    "text": "40.5"
+                }
+            ]
+        },
+        {
+            "questionText": "How many 0.5cm slices of bread can you cut from a whole bread that's 25cm long?",
+            "options": [{
+                    "text": "35"
+                },
+                {
+                    "text": "1",
+                    "correct": true
+                },
+                {
+                    "text": "39"
+                }
+            ]
+        },
+        {
+            "questionText": "A farmer has 17 sheep, all of them but 8 die. How many sheep are still standing?",
+            "options": [{
+                    "text": "8",
+                    "correct": true
+                },
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "9"
+                }
+            ]
+        },
+        {
+            "questionText": "There are 45 apples in your basket. You take three apples out of the basket. How many apples are left?",
+            "options": [{
+                    "text": "42"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "45",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "There are two clocks of different colors: The red clock is broken and doesn't run at all, but the blue clock loses one second every 24 hours. Which clock is more accurate? ",
+            "options": [{
+                    "text": "Blue"
+                },
+                {
+                    "text": "Red",
+                    "correct": true
+                },
+                {
+                    "text": "Both"
+                }
+            ]            
+        },
+        {
+            "questionText":"Mathew's father has three sons- Joseph I and Joseph II. Can you guess the name of the third son? ",
+            "options": [{
+                    "text": "can not say"                    
+                },
+                {
+                    "text": "Mathew"
+                },
+                {
+                    "text": "JOSEPH3",
+                    "correct": true
+                }
+            ]            
+        },
+        {
+            "questionText": "You're 3rd place right now in a race. What place are you in when you pass the person in 2nd place?",
+            "options": [{
+                    "text": "1",
+                    "correct": true
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "3"
+                }
+            ]            
+        }
+    ]
+}
